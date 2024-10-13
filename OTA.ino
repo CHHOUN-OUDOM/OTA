@@ -5,7 +5,7 @@ void setup() {
 
 void loop() {
   // Print the message "Successful OTA Update" to the serial monitor
-  Serial.println("Successful OTA Update1");
+  Serial.println("Successful OTA ");
   
   // Wait for one second before repeating the loop
   delay(1000);
